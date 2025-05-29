@@ -1,0 +1,26 @@
+button {
+    background-color: #ff0000;
+    color: #000000;
+    font-size: 18pt;
+    margin: 15px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #ff7f7f;
+}
+
+
+#danger-btn {
+    background-color: #00ff5e;
+}
+
+.green-bg {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 16pt;
+}
